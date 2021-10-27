@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: My first own blog (Airat is the name)
+title: My first own blog (Airat is the name) v1
 description: An easy to use blogging platform with support for Jupyter Notebooks. And this line is added to make sure I can change things.
 github_username: kotlyar-shapirov
 # you can comment the below line out if your repo name is not different than your baseurl
